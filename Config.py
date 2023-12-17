@@ -12,7 +12,7 @@ class Config():
     __config_path = 'CustomSplasherConfig.json'
     __file_encoding = 'UTF-8'
     __default_config = {
-        'target_program': 'cmd',
+        'target_program': "C:\Program Files (x86)\Seewo\EasiNote5\swenlauncher\swenlauncher.exe",
         'launch_interval': 1500,
         'exit_interval': 2000,
         'layout': {
