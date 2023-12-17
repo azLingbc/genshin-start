@@ -34,4 +34,8 @@
 
           5.offset 为画面偏移距离
 
-          6.speed 为画面播放速度
+          6.file 为播放的视频文件
+
+          7.speed 为画面播放速度
+
+          8.reverse_color or addictive_color 可为视频进行RGB调色
