@@ -30,7 +30,7 @@
           3.exit_interval 规定了在启动软件后多少毫秒关闭画面
 
           4.heigh 为画面高度
-          width 为画面宽度
+            width 为画面宽度
 
           5.offset 为画面偏移距离
 
