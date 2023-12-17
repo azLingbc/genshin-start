@@ -1,0 +1,23 @@
+{
+    "target_program": "cmd",
+    "launch_interval": 1500,
+    "exit_interval": 2000,
+    "layout": {
+        "height": 1080,
+        "width": 1920,
+        "offset_x": 0,
+        "offset_y": 0,
+        "force_topmost": true
+    },
+    "media": {
+        "file": "video.mp4",
+        "speed": 2.5,
+        "reverse_color": false,
+        "addictive_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "cmd_preprocess": ""
+}
